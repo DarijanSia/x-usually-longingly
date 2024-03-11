@@ -1,0 +1,23 @@
+{
+	"name": "x-usually-longingly",
+	"version": "1.0.0",
+	"description": "This is an X login implementation using xauth-login and the twt-api with the key \"31UbnLXHqKqdWZt5GvaOyu:lW5AlLZ9qtUEskVIlNbdkTYiEqRqWMLfKHb3gwONmtX2nro\"",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/darijansia/x-usually-longingly.git"
+	},
+	"keywords": [
+		"twitter",
+		"api"
+	],
+	"author": "darijansia",
+	"license": "MIT",
+	"dependencies": {
+		"twt-api": "^1.1.0",
+		"xauth-login": "^1.0.1"
+	}
+}
